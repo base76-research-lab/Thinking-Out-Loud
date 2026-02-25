@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Base76 Thinking-Out-Loud"
+message: "If you use these research notes, please cite this repository."
+type: dataset
+authors:
+  - family-names: "Wikström"
+    given-names: "Björn"
+    orcid: "https://orcid.org/0009-0000-4015-2357"
+repository-code: "https://github.com/base76-research-lab/Thinking-Out-Loud"
+license: "MIT"

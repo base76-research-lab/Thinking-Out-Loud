@@ -1,14 +1,62 @@
-# Thinking Out Loud
+# Thinking-Out-Loud
 
-Open research notes, hypotheses, architecture ideas, and reflective logs.
+![Research](https://img.shields.io/badge/focus-epistemic%20AI-blue)
+![Status](https://img.shields.io/badge/status-active-green)
+![GPU](https://img.shields.io/badge/GPU-accelerated-76B900)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-## Structure
+Research diary for hypotheses, architectural reasoning, and reflective experiment logs.
 
-- `hypotheses/` — testable research hypotheses
-- `architecture/` — system architecture ideas and diagrams
-- `logs/` — experiment reflections and iteration notes
-- `notebooks/` — exploratory notebook references
+---
 
-## Note
+## Overview
 
-This repository is intentionally exploratory and may contain unfinished ideas.
+This repository captures active reasoning during development: hypotheses, notes, architecture options, and iteration traces.
+
+---
+
+## Architecture
+
+Primary folders:
+- `hypotheses/`
+- `architecture/`
+- `logs/`
+- `notebooks/`
+
+---
+
+## Research Context
+
+Thinking artifacts support epistemic transparency: what was assumed, tested, revised, and retained.
+
+---
+
+## Installation / Usage
+
+No runtime setup required. Add timestamped notes and hypothesis files as research evolves.
+
+---
+
+## Experiments
+
+Execution artifacts and measured outputs live in:
+https://github.com/base76-research-lab/Experiments
+
+---
+
+## Publications
+
+Formalized outputs are promoted to:
+https://github.com/base76-research-lab/Papers
+
+---
+
+## Status
+
+Active
+
+---
+
+## License
+
+MIT
